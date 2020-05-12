@@ -1,3 +1,0 @@
---AGREGAR USUARIOS
-
-INSERT INTO `usuario` (`idUsername`, `username`, `password`) VALUES ('1', 'Vane1234', 'Ps123456'), ('2', 'Maria3434', '34mA1234');
